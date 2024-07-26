@@ -1,0 +1,195 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+.se {
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.words ,.who{
+  width: 45%;
+  display: inline-block;
+}
+
+.who {
+  
+  color: rgb(104, 104, 104);
+  padding: 50px 0px 0px 50px;
+}
+.words img {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+div {
+  width: 30%;
+  display: inline-block;
+}
+div.hi {
+  width: 100%;
+
+  text-align: center;
+}
+/* h4{
+    vertical-align: middle;
+} */
+
+.b {
+  font-size: 30px;
+}
+.b,
+h2 {
+  color: rgb(48, 48, 48);
+}
+
+h4 {
+  color: rgb(104, 104, 104);
+  font-size: 17px;
+}
+
+.heading {
+  padding-top: 40px;
+  width: 100%;
+  height: 120vh;
+  text-align: center;
+  background-image: url(../images/drew-coffman-1872.jpg);
+  background-size: cover;
+  background-position: 100% 50%;
+}
+.head,
+h2 {
+  font-size: 22px;
+}
+.second,
+.b,
+h2 {
+  font-family: "Alegreya";
+}
+.second {
+  color: rgb(255, 255, 255);
+  font-size: 70px;
+}
+.head,
+.who,
+.third,
+.one,
+.two,
+h4 ,.copy{
+  font-family: "Alegreya Sans";
+}
+.third,
+.head,
+.second,
+h4,
+.b,
+h2 ,span{
+  font-weight: 400;
+}
+.locphoto {
+  width: 50%;
+  
+  float:right;
+  
+}.locphoto img{
+    margin-right: 10%;
+    
+}
+.chars {margin-top: 50px;
+ 
+  width: 40%;
+  
+  padding:20px 0px 0px 60px;
+  float:left;
+}.cler{
+    clear: both;
+}.hi{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.head,
+.third {
+  color: rgba(255, 255, 255, 0.92);
+}
+
+.third {
+  font-size: 24px;
+}
+.one,
+.two {
+  font-size: 16px;
+  font-weight: 700;
+}
+.one {
+  padding: 15px 30px;
+  color: rgb(34, 34, 34);
+  background-color: #8e7754;
+  border-radius: 6px;
+  border-color: transparent;
+}
+.two {
+  padding: 15px 30px;
+  color: rgb(51, 51, 51);
+  background-color: none;
+  border-color: white;
+  border-width: 1px;
+  border-radius: 6px;
+}
+.photo {
+  float: left;
+}
+.clr {
+  clear: left;
+}
+.photo img {
+  width: 43%;
+}.contact{
+    width:100%;
+    background-color:#F8F8F8;
+}.w{
+    width: 40%;
+    float:right;
+    margin-right: 40px;
+    margin-top: 40px;
+}
+.w img{
+width: 100%;
+    
+}.k{
+    float:left;
+    width: 40%;
+    padding:30px 50px;
+}
+
+.k img{
+    background-color: #8e7754;
+    border-radius: 50%;
+}
+.who img{
+    background-color: rgb(233, 226, 226);
+    border-radius: 50%;
+    border-color: black;
+
+}
+.last{width:100%;
+    background-color: rgba(0, 0, 0, 0.801);
+  
+}.y{
+    width:24%;
+   
+}span{font-size: 18px;
+    color: #F8F8F8;
+}.finally{
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  padding: 60px 0px;
+}
+.photos{
+  width: 3%;
+  background-color: rgba(128, 128, 128, 0.473);
+  border-radius: 50%;
+}.copy{
+  color: 
+  rgb(119, 119, 119);
+  font-size: 15px;
+}
